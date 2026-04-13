@@ -3,7 +3,7 @@ from PyPDF2 import PdfReader
 from openai import OpenAI
 
 st.set_page_config(page_title="Chat with PDF", layout="wide")
-st.title("📄 Chat with PDF 🤖 (Powered by Groq)")
+st.title("📄 Chat with PDF 🤖 ")
 
 # ====================== GROQ API SETUP ======================
 if "client" not in st.session_state:
