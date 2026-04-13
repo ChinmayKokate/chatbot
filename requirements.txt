@@ -107,6 +107,8 @@ rignore==0.7.6
 roman-numerals==4.1.0
 rsa==4.9.1
 s3transfer==0.16.0
+scikit-learn==1.8.0
+scipy==1.17.1
 sentry-sdk==2.56.0
 setuptools==82.0.1
 shellingham==1.5.4
@@ -122,6 +124,7 @@ sphinxcontrib-qthelp==2.0.0
 sphinxcontrib-serializinghtml==2.0.0
 starlette==0.52.1
 sympy==1.14.0
+threadpoolctl==3.6.0
 torch==2.10.0
 torchaudio==2.10.0
 torchvision==0.25.0
